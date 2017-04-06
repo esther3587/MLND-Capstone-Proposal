@@ -1,10 +1,10 @@
 # Machine Learning Engineer Nanodegree
 ## Capstone Proposal
-Joe Udacity  
-December 31st, 2050
+Shun-Wen Chang
+April 5th, 2017
 
 ## Proposal
-_(approx. 2-3 pages)_
+Build a Stock Price Indicator
 
 ### Domain Background
 _(approx. 1-2 paragraphs)_
