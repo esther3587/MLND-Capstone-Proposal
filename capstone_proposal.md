@@ -48,6 +48,6 @@ Provide thorough discussion for what strategies you may consider employing, what
 
 ### Reference
 
-[Kaggle](https://www.kaggle.com/c/quora-question-pairs)
-[Quora](https://www.quora.com)
-[sklearn TFIDF](http://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.TfidfVectorizer.html)
+- [Kaggle](https://www.kaggle.com/c/quora-question-pairs)
+- [Quora](https://www.quora.com)
+- [sklearn TFIDF](http://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.TfidfVectorizer.html)
