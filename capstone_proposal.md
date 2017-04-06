@@ -44,7 +44,9 @@ Basically I'll take the score of the competition as evaluation.
 
 ### Project Design
 
-Provide thorough discussion for what strategies you may consider employing, what analysis of the data might be required before being used, or which algorithms will be considered for your implementation. The workflow and discussion that you provide should align with the qualities of the previous sections. Additionally, you are encouraged to include small visualizations, pseudocode, or diagrams to aid in describing the project design, but it is not required. The discussion should clearly outline your intended workflow of the capstone project.
+Before even start training models, I will first take glimpse of the data see what the shape and is and how they are formatted. Then I will start doing my natural language processing and extract information such as character counts, sentence length, TF-IDF vector...etc. Since in this case there are not too many features, I don't think PDA feature selection is required. I may perform some graph visualization for better understanding of the data distribution. This dependes on whether I can find such existing implemntation/library or whether I have enough time to do it from scratch. 
+
+For training models, I plan to choose 2-3 different models to compare. Because this is a classification problem, a few approaches in my head would be regrssion, decision trees, SVM, and random forrest. Using cross-validation I can find which model performs best, and then use that one to tweak relative parameters. The final accuracy will be tested against the test data set provided by Kaggle.
 
 ### Reference
 
